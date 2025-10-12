@@ -2,7 +2,7 @@
 
 
 ## Objective
-- Create a SOC environment to defend against simulated attacks, then write reports.
+- Create a SOC environment, defend against simulated attacks, then write reports.
 
 ### Skills Learned
 - ...
