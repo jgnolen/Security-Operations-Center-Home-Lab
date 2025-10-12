@@ -1,5 +1,5 @@
 # Security Operations Center Home Lab
-
+(project in progress)
 
 ## Objective
 - Create a SOC environment, defend against simulated attacks, then write reports.
@@ -7,7 +7,7 @@
 ### Skills Learned
 - ...
 
-### OS Used
+### OSs Used
 - Windows 11 Host (with choice of Hypervisor)
 - Kali Purple VM (Analyst)
 - Kali VM (Attacker)
