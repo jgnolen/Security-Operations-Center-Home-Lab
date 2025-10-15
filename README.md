@@ -28,12 +28,14 @@
 Security Onion 2.4
 Kali Purple
 Kali
+Windows 10 Education
 Windows 11 Enterprise
 
 2. Configure your VMs for the homelab
 Security Onion 2.4
 Kali Purple
 Kali
+Windows 10 Education
 Windows 11 Enterprise
 
 - This includes testing connectivity and installing updates (excluding specific vulnerable VMs).
