@@ -69,5 +69,7 @@ Windows 11 Enterprise
 
 - ...
 
-
+Sources Cited
+Security Onion Solutions. (2025). *Security onion documentation.* Security Onion Documentation - Security Onion 
+    Documentation 2.4 documentation. https://docs.securityonion.net/en/2.4/ 
 
