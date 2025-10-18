@@ -2,13 +2,15 @@
 (project in progress)
 
 ## Objective
-- Create a SOC environment, defend against simulated attacks, then write reports.
+- Create a SOC environment, simulate attacks, defend attacks, then write reports.
 
 ### Skills Learned
+- SIEM deployment
+- Incident Response
 - ...
 
 ### OSs Used
-- Windows 11 Host (with choice of Hypervisor)
+- Windows 11 Host (with Type 2 Hypervisor)
 - Kali Purple VM (Analyst)
 - Kali VM (Attacker)
 - Security Onion VM 
@@ -17,21 +19,28 @@
 - ...
 
 ### Tools Used
-- VMware
+- Security Onion 2.4 (Standalone)
+    - Elastic Agent
+    - Logstash
+    - Redis
+    - Elasticsearch
+    - Cyberchef
+- Wireshark
 - Atomic Red Team
+- VMware Workstation Pro
 - ...
 
 
 
 ## Steps
-1. Create your VMs for the homelab
+1. Create VMs for the homelab
 Security Onion 2.4
 Kali Purple
 Kali
 Windows 10 Education
 Windows 11 Enterprise
 
-2. Configure your VMs for the homelab
+2. Configure VMs for the homelab
 Security Onion 2.4
 Kali Purple
 Kali
