@@ -65,7 +65,7 @@ Windows 11 Enterprise
 
 - Repeat step until the network is successfully defended.
 
-5. The most important step, complete a report as the defender for each simulated attack.
+5. Complete a report as the incident handler for each simulated attack.
 
 - ...
 
