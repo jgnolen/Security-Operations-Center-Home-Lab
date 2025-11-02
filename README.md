@@ -1,5 +1,5 @@
 # Security Operations Center Home Lab
-(project in progress)
+(project in-progress)
 
 ## Objective
 - Create a SOC environment, simulate attacks, defend attacks, then write reports.
